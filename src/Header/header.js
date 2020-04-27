@@ -8,7 +8,7 @@ render() {
    return(
        <div>
         <header className="top-header">
-            <p className="bigText">text 2</p>
+            <p className="bigText">Swiss001 MC Server</p>
             <nav>
                 <ul className="nav-links">
                     <li><a>text 1, will scroll to apply screen</a></li>
