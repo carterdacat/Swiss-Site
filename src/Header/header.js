@@ -15,7 +15,7 @@ render() {
        <Router>
        <div>
         <header className="top-header">
-        <p>Swiss MC Server</p>
+        <p>Venoms MC Server</p>
             <a className="logo" href="https://discord.gg/swiss001"><img src={image} width="50px" height="50px" alt={'Discord'} />
             </a>
             <nav>
