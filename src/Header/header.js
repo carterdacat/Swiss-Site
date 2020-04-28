@@ -9,12 +9,12 @@ render() {
    return(
        <div>
         <header className="top-header">
-            <a className="logo" href="/"><img src={image} width="50px" height="50px" alt={'Discord'} />
-                <p>Swiss MC Server</p>
+        <p>Swiss MC Server</p>
+            <a className="logo" href="https://discord.gg/swiss001"><img src={image} width="50px" height="50px" alt={'Discord'} />
             </a>
             <nav>
                 <ul className="nav-links">
-                    <li><a>text 1, will scroll to apply screen or goto a new page with that</a></li>
+                    <li><a href="#rules">Rules</a></li>
                     {/* to add a item, just do another <li></li> tag */}
                 </ul>
             </nav>
