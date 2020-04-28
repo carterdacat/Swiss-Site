@@ -10,8 +10,12 @@ class Body extends React.Component {
              <p className='largecenteredText'>Our Rules!</p>
              </div>
              <div id='rules'>
-                 <p className='mediumcenteredText'>1. No griefing</p>
-                 <p className='mediumcenteredText'>2. No toxicity</p>
+                 <ol>
+                 <li className='mediumcenteredText'>1. No grieving</li>
+                 <li className='mediumcenteredText'>2. No toxicity</li>
+                 <li className='mediumcenteredText'>3. No stealing</li>
+                 <li className='mediumcenteredText'>4. No pvp, unless agreed to</li>
+                 </ol>
              </div>
             </div>
         );

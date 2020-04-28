@@ -1,0 +1,20 @@
+.div {
+    background-color: #929191;
+}
+
+.biggerText {
+    font-size: 50px;
+}
+
+.mediumText {
+    font-size: 25px;
+}
+.mediumcenteredText {
+    text-align: center;
+    font-size: 25px;
+}
+.mediumcsText {
+    text-align: center;
+    font-size: 25px;
+    line-height: 75px;
+}
